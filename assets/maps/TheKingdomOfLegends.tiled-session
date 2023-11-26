@@ -1,0 +1,250 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "//wsl.localhost/Ubuntu-22.04/home/xiam/Epitech/T-JAV-501-MAR_1/TheKingdomOfLegends/assets/maps/MonsterZone2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "//wsl.localhost/Ubuntu-22.04/home/xiam/Epitech/T-JAV-501-MAR_1/TheKingdomOfLegends/assets/maps/MonsterZone.tsx": {
+            "scaleInDock": 1
+        },
+        "//wsl.localhost/Ubuntu-22.04/home/xiam/Epitech/T-JAV-501-MAR_1/TheKingdomOfLegends/assets/maps/MonsterZone2.tmx": {
+            "scale": 0.8134374999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 395.85094122166737,
+                "y": 319.01651940069144
+            }
+        },
+        "Bar.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 160,
+                "y": 160.33333333333331
+            }
+        },
+        "Bar.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "C:/Users/xcheb/OneDrive/Bureau/Jeu Java 2D/Map/Forest.tsx": {
+            "scaleInDock": 1
+        },
+        "Forest.tmx": {
+            "scale": 0.9203125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 398.77758913412566,
+                "y": 400.40747028862484
+            }
+        },
+        "Forest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ForestMonster.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -34.666666666666664,
+                "y": 69.66666666666667
+            }
+        },
+        "ForestMonster.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "Manoir.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320,
+                "y": 247.75
+            }
+        },
+        "Manoir.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "MonsterSalle.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 104,
+                "y": 103.75
+            }
+        },
+        "MonsterSalle.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "MonsterZone.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 397,
+                "y": 440.5
+            }
+        },
+        "MonsterZone.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MonsterZone1.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 399.8333333333333,
+                "y": 319.8333333333333
+            }
+        },
+        "MonsterZone1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "MonsterZone2.tmx": {
+            "scale": 4,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 117.5,
+                "y": 174.625
+            }
+        },
+        "MonsterZone2.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "MonsterZone3.tmx": {
+            "expandedGroupLayers": [
+                1
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 399.75,
+                "y": 319.75
+            }
+        },
+        "MonsterZone4.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 377.25,
+                "y": 319.75
+            }
+        },
+        "MonstersZone.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 635,
+                "y": 635
+            }
+        },
+        "Sarosa Infestée.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        },
+        "Sarosa.tmx": {
+            "scale": 1.01175,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.79070916728443,
+                "y": 400.79070916728443
+            }
+        },
+        "Thermes.tmx": {
+            "expandedGroupLayers": [
+                1
+            ],
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 141,
+                "y": 119.16666666666669
+            }
+        },
+        "Thermes.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "TraderRoom.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 149.16666666666666,
+                "y": 80.16666666666666
+            }
+        },
+        "TraderRoom.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "Village.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 428,
+                "y": 583.25
+            }
+        },
+        "Village.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 4,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/xcheb/OneDrive/Bureau/TheKingdomOfLegends/assets/maps",
+    "last.imagePath": "C:/Users/xcheb/OneDrive/Bureau/TheKingdomOfLegends/assets/maps",
+    "loadedWorlds": [
+        "C:/Users/xcheb/OneDrive/Bureau/TheKingdomOfLegends/assets/maps/TheKingdomOfLegends.world"
+    ],
+    "map.height": 80,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 80,
+    "openFiles": [
+        "MonsterSalle.tmx",
+        "Manoir.tmx",
+        "Manoir.tsx",
+        "Village.tmx",
+        "MonsterZone4.tmx",
+        "MonsterZone1.tmx",
+        "MonsterZone3.tmx",
+        "TraderRoom.tmx",
+        "//wsl.localhost/Ubuntu-22.04/home/xiam/Epitech/T-JAV-501-MAR_1/TheKingdomOfLegends/assets/maps/MonsterZone2.tmx"
+    ],
+    "project": "TheKingdomOfLegends.tiled-project",
+    "recentFiles": [
+        "MonsterSalle.tmx",
+        "Manoir.tmx",
+        "Manoir.tsx",
+        "Village.tmx",
+        "MonsterZone4.tmx",
+        "MonsterZone1.tmx",
+        "MonsterZone3.tmx",
+        "TraderRoom.tmx",
+        "//wsl.localhost/Ubuntu-22.04/home/xiam/Epitech/T-JAV-501-MAR_1/TheKingdomOfLegends/assets/maps/MonsterZone2.tmx",
+        "Village.tsx",
+        "Thermes.tsx",
+        "Thermes.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
